@@ -1,1 +1,1 @@
-# termite
+#[ModKit Wiki](../../wiki)
